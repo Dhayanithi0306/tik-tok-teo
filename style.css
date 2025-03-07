@@ -1,4 +1,4 @@
-/* #btn1{
+ #btn1{
   width: 100px;
   height:50px;
   border-radius: 15px;
@@ -16,4 +16,4 @@ button:hover{
   background-color: black;
   transition: 0.3s background;
   animation:movingShadow 3s infinite linear;
-} */
+} 
